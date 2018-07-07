@@ -6,6 +6,6 @@ public class CollectionDemo {
       /* System.out.println("hello");
         System.out.println("hello");*/
         //
-
+        System.out.println("不想要")
     }
 }
